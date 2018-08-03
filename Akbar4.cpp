@@ -1,3 +1,5 @@
+//This program structures a user entered program and outputs it as a paragraph where each line has a 
+//specific number of characters decided by the user.
 #include<iostream>
 #include<vector>
 using namespace std;
