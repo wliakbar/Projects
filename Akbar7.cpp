@@ -1,3 +1,4 @@
+//Program creates desired a number of incribed circles
 #include "Simple_window.h"
 #include "Graph.h"
 #include <cstdlib>
