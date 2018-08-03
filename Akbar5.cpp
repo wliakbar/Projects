@@ -1,3 +1,4 @@
+//Implemenetd the famous crazy eights game
 #include <cstdlib>
 #include <iostream>
 #include <iomanip>
