@@ -1,3 +1,4 @@
+// Game in which you have to type in a random word correctly and within a specific time.
 #include<iostream>
 #include <ctime>
 #include <cstdlib>
