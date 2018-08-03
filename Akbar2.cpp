@@ -1,4 +1,5 @@
 // Project Name        : Akbar2.cpp        Author      : Wli Akbar
+//	Odd/Eveen Dice Gambling Game
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
